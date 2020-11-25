@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WishIT</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_new_card">NewCard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="occasions">
+        <item>Birthday</item>
+        <item>Christmas</item>
+        <item>New Years Eve</item>
+        <item>Easter</item>
+        <item>Thanksgiving</item>
+        <item>Halloween</item>
+        <item>April Fools</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Wishing you a day filled with happiness and a year filled with joy. Happy birthday!</item>
+        <item>Tis the season to wish one another joy and love and peace. Merry Christmas.</item>
+        <item>Warmest greetings of this festive season and best wishes for happiness this New Year.</item>
+        <item>I love Easter. It’s a time for eating all the chocolate you can find with complete impunity! Have a delicious Easter.</item>
+        <item>Wishing you the gift of faith and the blessing of hope this thanksgiving day!</item>
+        <item>Spooks, treats, and yummy eats. Wishing you the best Halloween ever!</item>
+        <item>I’m not texting you any kind of jokes today, because our friendship is already a one giant joke. I love you anyway. But I do think that we need to be more serious from time to time. Behave. </item>
+    </string-array>
+
+</resources>
